@@ -1,0 +1,14 @@
+.venv/
+
+__pycache__/
+*.py[cod]
+
+*.pt
+*.pth
+
+data/
+image/
+*.jpg
+*.png
+
+.vscode/
